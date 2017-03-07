@@ -1,1 +1,1 @@
-# JS_Todo_App
+Todo App with Vanilla JavaScript
